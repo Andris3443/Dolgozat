@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+    color: white;
+}
+
+.cim1{
+    text-align: center;
+}
+
+.cim2{
+    font-size: 40px;
+}
+
+img{
+    float: right;
+    height: 250px;
+    width: 450px;
+    border-radius: 20px;
+}
