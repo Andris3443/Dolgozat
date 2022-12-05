@@ -1,1 +1,2 @@
 # Dolgozat
+Szévald András
